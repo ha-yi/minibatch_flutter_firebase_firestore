@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "601761920831",
+    "firebase_url": "https://cari-ojek.firebaseio.com",
+    "project_id": "cari-ojek",
+    "storage_bucket": "cari-ojek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601761920831:android:deb8bb72130206e2",
+        "android_client_info": {
+          "package_name": "com.hayi.testingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601761920831-kgdmvvd8s9fd78oh76su82kvsg8o0poe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9LAy6Y99iLXE-8JLDPsxBSvlsFvSY5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
